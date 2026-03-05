@@ -1,7 +1,7 @@
 <img src="cyberpunk-header.svg" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#ff0044&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Builder;Cyberpunk+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0044&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Builder;" />
 </p>
 
 ---
@@ -22,11 +22,10 @@
 ## 📊 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-jade-74.vercel.app/api?username=Laverenz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-seven-jade-74.vercel.app/api?username=Laverenz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0044&text_color=ff4400&icon_color=ff0044" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Laverenz&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=Laverenz&hide_border=true&background=0D1117&ring=ff0044&fire=ff4400&currStreakLabel=ff0044&sideLabels=ff4400&dates=ff4400&currStreakNum=ff0044&sideNums=ff0044"/>
 </p>
 
 ---
