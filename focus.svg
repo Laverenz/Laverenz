@@ -1,0 +1,42 @@
+<svg width="600" height="160" viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <!-- Row 1: Learning new frameworks (80%) -->
+  <text x="20" y="36" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">[</text>
+  <text x="30" y="36" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">▓▓▓▓▓▓▓▓</text>
+  <text x="126" y="36" font-family="monospace" font-size="14" fill="#ff0044" opacity="0.3">░░</text>
+  <text x="150" y="36" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">]</text>
+  <text x="170" y="36" font-family="monospace" font-size="14" fill="#ff4400" filter="url(#neonGlow)">Learning new frameworks</text>
+
+  <!-- Row 2: Building backend systems (50%) -->
+  <text x="20" y="72" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">[</text>
+  <text x="30" y="72" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">▓▓▓▓▓</text>
+  <text x="90" y="72" font-family="monospace" font-size="14" fill="#ff0044" opacity="0.3">░░░░░</text>
+  <text x="150" y="72" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">]</text>
+  <text x="170" y="72" font-family="monospace" font-size="14" fill="#ff4400" filter="url(#neonGlow)">Building backend systems</text>
+
+  <!-- Row 3: Sharpening SQL skills (70%) -->
+  <text x="20" y="108" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">[</text>
+  <text x="30" y="108" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">▓▓▓▓▓▓▓</text>
+  <text x="114" y="108" font-family="monospace" font-size="14" fill="#ff0044" opacity="0.3">░░░</text>
+  <text x="150" y="108" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">]</text>
+  <text x="170" y="108" font-family="monospace" font-size="14" fill="#ff4400" filter="url(#neonGlow)">Sharpening SQL skills</text>
+
+  <!-- Row 4: Exploring DevOps (20%) -->
+  <text x="20" y="144" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">[</text>
+  <text x="30" y="144" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">▓▓</text>
+  <text x="54" y="144" font-family="monospace" font-size="14" fill="#ff0044" opacity="0.3">░░░░░░░░</text>
+  <text x="150" y="144" font-family="monospace" font-size="14" fill="#ff0044" filter="url(#neonGlow)">]</text>
+  <text x="170" y="144" font-family="monospace" font-size="14" fill="#ff4400" filter="url(#neonGlow)">Exploring DevOps</text>
+</svg>
