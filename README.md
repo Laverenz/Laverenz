@@ -47,12 +47,10 @@
 ---
 
 ## 🌐 Current Focus
-```
-  [▓▓▓▓▓▓▓▓░░]  Learning new frameworks
-  [▓▓▓▓▓░░░░░]  Building backend systems
-  [▓▓▓▓▓▓▓░░░]  Sharpening SQL skills
-  [▓▓░░░░░░░░]  Exploring DevOps
-```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laverenz/Laverenz/main/focus.svg"/>
+</p>
 
 ---
 
