@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: Laverenz
           outputs: |
-            dist/snake.svg?color_snake=ff0044&color_dots=#0d1117,#660011,#990022,#cc0033,#ff0044
+            dist/snake.svg?color_snake=ff0044&color_dots=#0d1117,#660011,#990022,#cc0033,#ff0044&color_bg=#0d1117
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
