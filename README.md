@@ -22,11 +22,11 @@
 ## 📊 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-jade-74.vercel.app/api?username=Magnusbekhoj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-seven-jade-74.vercel.app/api?username=Laverenz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Magnusbekhoj&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=Laverenz&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
