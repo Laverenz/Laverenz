@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
 </p>
 
+
 ---
 
 ## 📊 System Metrics
@@ -33,6 +34,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Laverenz&hide_border=true&background=0D1117&ring=ff0044&fire=ff4400&currStreakLabel=ff0044&sideLabels=ff4400&dates=ff4400&currStreakNum=ff0044&sideNums=ff0044"/>
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laverenz&bg_color=0d1117&color=ff0044&line=ff4400&point=ff0044&hide_border=true&area=true&area_color=ff0044"/>
 </p>
 
 ---
