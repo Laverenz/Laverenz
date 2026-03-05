@@ -1,7 +1,7 @@
 <img src="cyberpunk-header.svg" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Builder;Cyberpunk+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#ff0044&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Builder;Cyberpunk+Architect" />
 </p>
 
 ---
