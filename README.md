@@ -55,11 +55,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0044,100:ff4400&height=2"/>
-</p>
-
-<p align="center"><i>"Not force it. Make it fun"</i></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Laverenz/Laverenz/output/snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laverenz/Laverenz/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Laverenz/Laverenz/output/snake.svg"/>
+  </picture>
 </p>
