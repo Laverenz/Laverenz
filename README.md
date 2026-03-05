@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-jade-74.vercel.app/api/top-langs/?username=Laverenz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0044&text_color=ff4400" />
+  <img src="https://github-readme-stats-seven-jade-74.vercel.app/api/top-langs/?username=Laverenz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0044&text_color=ff4400&count_private=true&include_forked_repos=true" />
 </p>
 
 ---
