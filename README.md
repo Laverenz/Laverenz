@@ -61,5 +61,5 @@
 <p align="center"><i>"Not force it. Make it fun"</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Laverenz/TechnoVand/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Laverenz/Laverenz/output/snake.svg"/>
 </p>
